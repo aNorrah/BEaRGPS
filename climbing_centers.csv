@@ -1,4 +1,4 @@
-id,brand,gym_name,street_address,postal_code,city,region,country,homepage,latitude,longitude,bouldering,lead,top_rope,moonboard,kilterboard,spraywall,continent,grading
+id,brand,gym_name,street_address,postal_code,city,region,country,homepage,latitude,longitude,bouldering,lead,top_rope,moonboard,kilterboard,spraywall,continent,grading_type
 dk-boulders-aalborg,Boulders,Boulders Aalborg,"Skjernvej 4A",9220,Aalborg,Nordjylland,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,Color
 dk-boulders-aarhus-aaby,Boulders,Boulders Aarhus Aaby,"Søren Frichs Vej 54",8230,Aabyhøj,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,Color
 dk-boulders-aarhus-city,Boulders,Boulders Aarhus City,"Ankersgade 12C",8000,Aarhus C,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,Color
