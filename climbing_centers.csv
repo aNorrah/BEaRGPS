@@ -1,17 +1,17 @@
 id,brand,gym_name,street_address,postal_code,city,region,country,homepage,latitude,longitude,bouldering,lead,top_rope,moonboard,kilterboard,spraywall,continent,grading_type
-dk-boulders-aalborg,Boulders,Boulders Aalborg,"Skjernvej 4A",9220,Aalborg,Nordjylland,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,Color
-dk-boulders-aarhus-aaby,Boulders,Boulders Aarhus Aaby,"Søren Frichs Vej 54",8230,Aabyhøj,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,Color
-dk-boulders-aarhus-city,Boulders,Boulders Aarhus City,"Ankersgade 12C",8000,Aarhus C,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,Color
-dk-boulders-aarhus-nord,Boulders,Boulders Aarhus Nord,"Graham Bells Vej 18A",8200,Aarhus N,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,Color
-dk-boulders-aarhus-syd,Boulders,Boulders Aarhus Syd,"Søren Nymarks Vej 6A",8270,Højbjerg,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,false,true,true,Europe,Color
-dk-boulders-odense,Boulders,Boulders Odense,"Wichmannsgade 11",5000,Odense C,Syddanmark,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,Color
-dk-boulders-amager,Boulders,Boulders Amager,"Amager Landevej 233",2770,Kastrup,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,false,true,false,Europe,Color
-dk-boulders-hvidovre,Boulders,Boulders Hvidovre,"Strandmarksvej 20",2650,Hvidovre,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,false,true,true,Europe,Color
-dk-boulders-sydhavn,Boulders,Boulders Sydhavn,"Bådehavnsgade 38",2450,København SV,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,Color
-dk-boulders-valby,Boulders,Boulders Valby,"Pakkerivej 27",2500,Valby,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,false,true,false,Europe,Color
-dk-boulders-vanlose,Boulders,Boulders Vanløse,"Vanløse Torv 1, Kronen",2720,Vanløse,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,Color
-dk-bison-kodbyen,Bison Boulders,Bison Boulders Kødbyen,"Flæsketorvet 89",1711,København V,Hovedstaden,Denmark,"https://www.bison-boulders.com",,,true,false,false,,,,Europe,Color
-dk-bison-tobaksbyen,Bison Boulders,Bison Boulders Tobaksbyen,"Tobaksvejen 20",2860,Søborg,Hovedstaden,Denmark,"https://www.bison-boulders.com",,,true,false,false,,,,Europe,Color
-dk-beta-osterbro,Beta Boulders,Beta Boulders Østerbro,"Aldersrogade 6C",2100,København Ø,Hovedstaden,Denmark,"https://betaboulders.com",,,true,false,false,false,true,,Europe,Color
-dk-beta-sydhavn,Beta Boulders,Beta Boulders Sydhavn,"Pladehals Allé 26",2450,København SV,Hovedstaden,Denmark,"https://betaboulders.com",,,true,false,false,,,,Europe,Color
-dk-beta-vanlose,Beta Boulders,Beta Boulders Vanløse,"Kastanie Allé 8",2720,Vanløse,Hovedstaden,Denmark,"https://betaboulders.com",,,true,false,false,,,,Europe,Color
+dk-boulders-aalborg,Boulders,Boulders Aalborg,"Skjernvej 4A",9220,Aalborg,Nordjylland,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,color
+dk-boulders-aarhus-aaby,Boulders,Boulders Aarhus Aaby,"Søren Frichs Vej 54",8230,Aabyhøj,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,color
+dk-boulders-aarhus-city,Boulders,Boulders Aarhus City,"Ankersgade 12C",8000,Aarhus C,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,color
+dk-boulders-aarhus-nord,Boulders,Boulders Aarhus Nord,"Graham Bells Vej 18A",8200,Aarhus N,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,color
+dk-boulders-aarhus-syd,Boulders,Boulders Aarhus Syd,"Søren Nymarks Vej 6A",8270,Højbjerg,Midtjylland,Denmark,"https://boulders.dk",,,true,false,false,false,true,true,Europe,color
+dk-boulders-odense,Boulders,Boulders Odense,"Wichmannsgade 11",5000,Odense C,Syddanmark,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,color
+dk-boulders-amager,Boulders,Boulders Amager,"Amager Landevej 233",2770,Kastrup,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,false,true,false,Europe,color
+dk-boulders-hvidovre,Boulders,Boulders Hvidovre,"Strandmarksvej 20",2650,Hvidovre,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,false,true,true,Europe,color
+dk-boulders-sydhavn,Boulders,Boulders Sydhavn,"Bådehavnsgade 38",2450,København SV,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,true,false,true,Europe,color
+dk-boulders-valby,Boulders,Boulders Valby,"Pakkerivej 27",2500,Valby,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,false,true,false,Europe,color
+dk-boulders-vanlose,Boulders,Boulders Vanløse,"Vanløse Torv 1, Kronen",2720,Vanløse,Hovedstaden,Denmark,"https://boulders.dk",,,true,false,false,true,true,true,Europe,color
+dk-bison-kodbyen,Bison Boulders,Bison Boulders Kødbyen,"Flæsketorvet 89",1711,København V,Hovedstaden,Denmark,"https://www.bison-boulders.com",,,true,false,false,,,,Europe,color
+dk-bison-tobaksbyen,Bison Boulders,Bison Boulders Tobaksbyen,"Tobaksvejen 20",2860,Søborg,Hovedstaden,Denmark,"https://www.bison-boulders.com",,,true,false,false,,,,Europe,color
+dk-beta-osterbro,Beta Boulders,Beta Boulders Østerbro,"Aldersrogade 6C",2100,København Ø,Hovedstaden,Denmark,"https://betaboulders.com",,,true,false,false,false,true,,Europe,color
+dk-beta-sydhavn,Beta Boulders,Beta Boulders Sydhavn,"Pladehals Allé 26",2450,København SV,Hovedstaden,Denmark,"https://betaboulders.com",,,true,false,false,,,,Europe,color
+dk-beta-vanlose,Beta Boulders,Beta Boulders Vanløse,"Kastanie Allé 8",2720,Vanløse,Hovedstaden,Denmark,"https://betaboulders.com",,,true,false,false,,,,Europe,color
