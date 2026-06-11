@@ -42,6 +42,7 @@ Current schema:
 | `kilterboard`    | `true` if a Kilter Board is available.                     |
 | `spraywall`      | `true` if a spray wall is available.                       |
 | `continent`      | Continent name.                                            |
+| `grading_type`   | Grading system the center uses. One of `color`, `font`, `v`, `none`. Blank = not yet recorded. |
 
 ## Data Guidelines
 
@@ -51,6 +52,29 @@ Current schema:
 * Boolean fields should use lowercase `true` or `false`.
 * The CSV file should be encoded as UTF-8 to preserve local characters.
 * Latitude and longitude should use standard WGS84 decimal coordinates.
+
+## grading_type values
+
+- `color` — difficulty is encoded in hold colour; no numeric grade is given
+  (e.g. Boulders).
+- `font`  — Fontainebleau scale (6A, 6B+, 7A ...).
+- `v`     — V-scale (V0, V4, V7 ...).
+- `none`  — the center has no grading system; problems are ungraded.
+- *(blank)* — not yet recorded. Distinct from `none`. Leave blank rather than
+  guessing.
+
+Values are lowercase and fixed. Do not introduce other values; if a center
+does not fit, use `none` and add a note in the pull request.
+
+## Generated file
+
+`climbing_centers.json` is generated automatically from `climbing_centers.csv`
+by a GitHub Action on every push to `main`. Do not edit the JSON by hand; edit
+the CSV and let the workflow rebuild it. Apps should consume:
+
+```
+https://raw.githubusercontent.com/aNorrah/OpenClimbingDatasets/main/climbing_centers.json
+```
 
 ## Contributing
 
