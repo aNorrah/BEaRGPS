@@ -66,7 +66,6 @@ Please verify information against official gym websites or other reliable public
 
 ## License
 
-* **Code and scraping utilities:** MIT License.
-* **Dataset:** CC0 1.0 Universal (Public Domain Dedication).
+**Dataset:** CC0 1.0 Universal (Public Domain Dedication).
 
 The dataset contains factual information intended to be freely reused by the climbing community for apps, research, maps, and other projects. Attribution is appreciated but not required.
